@@ -589,3 +589,41 @@ y
 
 ![alt text](img/geo.png)
 
+# DEMO OUTPUT OF ZIP EXTRACTION 
+
+```
+2022/02/21 13:13:59 Found zip signature at byte 135275.
+Unzip it? (Y/N) > Y
+OK
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 135447 bytes (133 KiB)
+
+Extracting archive: img/stego_image.jpg
+--
+Path = img/stego_image.jpg
+Type = zip
+Offset = 135275
+Physical Size = 172
+
+    
+Would you like to replace the existing file:
+  Path:     ./passwords.txt
+  Size:     12 bytes (1 KiB)
+  Modified: 2018-10-21 08:37:36
+with the file from archive:
+  Path:     passwords.txt
+  Size:     12 bytes (1 KiB)
+  Modified: 2018-10-21 08:37:36
+? (Y)es / (N)o / (A)lways / (S)kip all / A(u)to rename all / (Q)uit? Y
+
+Everything is Ok    
+
+Size:       12
+Compressed: 135447
+
+```
+
