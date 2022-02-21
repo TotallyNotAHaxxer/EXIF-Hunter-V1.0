@@ -14,5 +14,7 @@ This is a simple program written and based off the black hat go module for image
 
 
 > Inject PNG images 
+
 > Grab EXIF data from all image formats 
+
 > Grab Offset's, chunks, crc, chunk types, etc from PNG images
