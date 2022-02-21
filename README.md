@@ -587,3 +587,5 @@ y
 
 # MAP THAT OS GENERATED IN THE DIR AFTER GEO LOCATION TAG IS USED WITH A JPG/JPEG image
 
+![alt text](img/geo.png)
+
