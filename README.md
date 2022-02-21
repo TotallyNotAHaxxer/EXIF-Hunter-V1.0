@@ -184,9 +184,6 @@ y
 # tracing JPEG GPS location in the images while creating a map image of the cordinants and example output
 
 ```
- [INFO]   13:05:33   -> File Exists 	 /home/reaper/goHackTools/geo-img/example.jpg
- [INFO]   13:05:33   -> Opening file   	 /home/reaper/goHackTools/geo-img/example.jpg
- [INFO]   13:05:33   ->  /home/reaper/goHackTools/geo-img/example.jpg 	 Successfully opened
 
 === EXIF Table ===
 ┌─────────────╥────────────────────────┬────────────────────────────────────────────────────────┐
@@ -382,7 +379,6 @@ y
 ├─────────────╫────────────────────────┼────────────────────────────────────────────────────────┤
 │1            ║SelfTimer               │                           Off                          │
 ├─────────────╫────────────────────────┼────────────────────────────────────────────────────────┤
-│1            ║Directory               │            /home/reaper/goHackTools/geo-img            │
 ├─────────────╫────────────────────────┼────────────────────────────────────────────────────────┤
 │1            ║Megapixels              │                          0.427                         │
 ├─────────────╫────────────────────────┼────────────────────────────────────────────────────────┤
